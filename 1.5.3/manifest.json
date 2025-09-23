@@ -1,0 +1,66 @@
+{
+  "app": "Pandora",
+  "channel": "stable",
+  "version": "1.5.3",
+  "build": 5,
+  "release_date": "2025-09-23",
+  "min_bootstrap": "1.0.0",
+  "files": [
+    {
+      "path": "pandora/GLOBALS.py",
+      "sha256": "e6806b3cd976646f6a70fcf1975498ace3639197566559964023011fef9d14aa",
+      "size": 12236
+    },
+    {
+      "path": "pandora/IPC.py",
+      "sha256": "6f4a2599c06ea9c51d7b8f09dba2acea1d2212d0fde5d593a6df770000fc2dbf",
+      "size": 4573
+    },
+    {
+      "path": "pandora/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "pandora/__main__.py",
+      "sha256": "b59d3e3af431a2037db2d3bf8aecaebcce5513564fecb37740cadd9f7bd9b2ed",
+      "size": 654
+    },
+    {
+      "path": "pandora/app.py",
+      "sha256": "08093d208b3ef4dcaed38bc05eeedf84f5a0fdd98538a310f8bc79a88bfd9d04",
+      "size": 6711
+    },
+    {
+      "path": "pandora/basicMath.py",
+      "sha256": "d0bc4bcede7f5e9e819c989907e9a7cca462a0233591dea84d6a48ce3a2052e1",
+      "size": 22906
+    },
+    {
+      "path": "pandora/datatypes.py",
+      "sha256": "5218f1d0ef2dc7f7bd5177855d5556a05d4213ae43e68a6bcae433fda473132b",
+      "size": 30963
+    },
+    {
+      "path": "pandora/math_pcaps.py",
+      "sha256": "4c6f615653db7d9e1e4768667d026cbcf422c4ac194b6710e75edccec8d6b06d",
+      "size": 9205
+    },
+    {
+      "path": "pandora/minimal_test.py",
+      "sha256": "e1eb0ef42a9517cc0146cb0ac2ecfb1b19c5bdb9fc780a12549375c2faaa902f",
+      "size": 1233
+    },
+    {
+      "path": "pandora/settings.xml",
+      "sha256": "c1e23115b9cd0cec7137803630c5838c64b4382c68ad4187d3e77b5803574eff",
+      "size": 48
+    }
+  ],
+  "notes_url": "https://raw.githubusercontent.com/loublock/pandora-updates/main/1.5.3/release-notes.html",
+  "sig": {
+    "alg": "ed25519",
+    "manifest_sig_b64": "FGqZXeuvn8m0cU+mPNNx8mR4LyO1UcC/cpcJciJJozFpHtUQtzBj9PkuLfEM4HzcZ1MIBA9FntMjGED3xxkvCw=="
+  },
+  "full_url": "https://raw.githubusercontent.com/loublock/pandora-updates/main/1.5.3/pandora-1.5.3-full.zip"
+}
